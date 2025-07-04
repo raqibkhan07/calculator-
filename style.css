@@ -12,13 +12,14 @@ body {
   border-radius: 10px;
   height: 400px;
   background-color: white;
+  border:2px solid black;
 }
 .calculator h2{
     font-size: 35px;
     text-decoration: underline;
     color: red;
-    margin-left: 100px;
     text-shadow: 1px 1px 5px black;
+    text-align:center;
 
 }
 .calculator p{
